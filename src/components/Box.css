@@ -2,8 +2,7 @@
 .box {
     width: 100px;
     height: 100px;
-    margin: 1px;
-    border: 1px solid black;
+    border: 1px solid grey;
     justify-content: center;
     align-items: center;
 }
