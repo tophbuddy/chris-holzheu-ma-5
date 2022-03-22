@@ -1,0 +1,30 @@
+
+.box {
+    width: 100px;
+    height: 100px;
+    margin: 1px;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    margin: 20px auto;
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.black {
+    background-color: black;
+}
+
+.white {
+    background-color: white;
+}
